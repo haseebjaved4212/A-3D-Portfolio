@@ -470,3 +470,18 @@ section {
 .card:hover::before {
   opacity: 1;
 }
+
+/* For Chrome, Safari, Edge, and Opera (WebKit-based) */
+html::-webkit-scrollbar {
+  display: none;
+}
+
+/* For Firefox */
+html {
+  scrollbar-width: none;
+}
+
+/* For Internet Explorer and older Edge */
+html {
+  -ms-overflow-style: none;
+}
