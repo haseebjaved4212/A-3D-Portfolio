@@ -103,4 +103,10 @@ Contributions are welcome! If you have suggestions for layout changes or new 3D 
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Copyright © 2025 Haseeb Javed. All rights reserved.
+
+---
+
+<h3 align="center">
+    <p>Happy Coding 💖</p>
+</h3>
